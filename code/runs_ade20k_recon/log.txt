@@ -1,0 +1,3 @@
+[21:51:05.906] Namespace(ade_root='/scratch/pf2m24/data/ADE20K/ADE20K/data', model='mamba_unet', img_size=256, batch_size=16, num_workers=8, epochs=50, lr=0.0001, seed=1337, out_dir='./runs_ade20k_recon')
+[21:51:07.002] Train samples: 25574, Val samples: 2000
+[21:51:07.002] Columns: ['image', 'segmentations', 'instances', 'filename', 'folder', 'source', 'scene', 'objects']
