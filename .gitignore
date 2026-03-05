@@ -38,8 +38,14 @@ checkpoints/
 *.hdf5
 *.npz
 *.npy
+!code/dataloaders/multi_mask/*.npy
+!code/dataloaders/radial_mask/*.npy
+!code/dataloaders/random_mask/*.npy
 
 # Archives
 *.tar
 *.tar.gz
 *.zip
+
+# Local paper drafts (do not upload)
+DAPSO__Dual_Axis_Product_Spectrum_Operator_for_Channel_Aware_Fourier_Mixing*.pdf

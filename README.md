@@ -1,7 +1,9 @@
 # DAPSO
-Implementation of DAPSO for MRI reconstruction, built on top of the MambaRecon codebase. [Paper Link](https://openaccess.thecvf.com/content/WACV2025/html/Korkmaz_MambaRecon_MRI_Reconstruction_with_Structured_State_Space_Models_WACV_2025_paper.html)
+Implementation of DAPSO for MRI reconstruction, built on top of the MambaRecon codebase.
 
-![image](https://github.com/user-attachments/assets/38c85fd0-aa73-4130-bfbb-d3ec4e5db520)
+Paper: coming soon
+
+Main figure (PDF): [dapso-main-fixed.drawio.pdf](dapso-main-fixed.drawio.pdf)
 
 
 ## Installation
