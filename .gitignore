@@ -49,3 +49,12 @@ checkpoints/
 
 # Local paper drafts (do not upload)
 DAPSO__Dual_Axis_Product_Spectrum_Operator_for_Channel_Aware_Fourier_Mixing*.pdf
+
+# Keep repo training-focused (exclude plotting/inference artifacts in code/)
+code/**/*.png
+code/**/*.pdf
+code/draw_*.py
+code/drwa_*.py
+code/plot_*.py
+code/infer_*.py
+infer_single_mambarecon.py

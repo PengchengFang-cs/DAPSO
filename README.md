@@ -35,15 +35,11 @@ python setup.py install
 
 ## Dataset
 
-Download datasets and place them in datasets folder inside code:
+This project uses two public MRI reconstruction datasets:
+- fastMRI
+- CC359
 
-https://drive.google.com/drive/folders/1XReBWt_oirOSdfc8rQf5OXIwdkxqX0xF?usp=share_link
-
-## Pretrained Checkpoint
-
-Download pretrained checkpoints:
-
-https://drive.google.com/drive/folders/1aPCqYbREsk5Q-vO8aXwDLFF51pe8XPCq?usp=share_link
+Please organize dataset files locally according to the paths expected by the dataloaders in `code/dataloaders/`.
 
 
 ## Run Commands
